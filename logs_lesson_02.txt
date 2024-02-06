@@ -1,0 +1,13 @@
+$ git log
+commit dd3aac60fecb81419b52df60a9683d3672487e9d (HEAD -> main, origin/main, origin/HEAD)
+Author: Valerio <valerio.balsamini@gmail.com>
+Date:   Tue Feb 6 16:52:34 2024 +0100
+
+    Logs for Assessment lesson 02
+
+commit 1bad6ee921961a4ba6981dbe61c8e05bc1532261
+Author: Balsamo91 <158509726+Balsamo91@users.noreply.github.com>
+Date:   Tue Feb 6 15:46:35 2024 +0000
+
+    Initial commit
+
